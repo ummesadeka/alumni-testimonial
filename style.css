@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  font-family: 'Century Gothic';
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  text-transform: capitalize;
+  color: #726a95;
+  margin: 10px 0;
+  position: relative;
+}
+
+.title::after{
+  content:*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #eee;
+  font-family: "Century Gothic";
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
